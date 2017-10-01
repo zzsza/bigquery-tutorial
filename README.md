@@ -10,11 +10,11 @@
 04. [Loading Data](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/01-Basic/04.%20Loading%20data(from%20GCS).ipynb)
 
 
-### 02 - Utils
-01. connect ipython
-02. connect datalab
-03. connect zeppelin
-04. connect tableau
+### 02 - [Utils](https://github.com/zzsza/bigquery-tutorial/tree/master/tutorials/02-Utils)
+01. [Connect Python(Jupyter)](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/01.%20Connect%20Python(Jupyter).ipynb)
+02. [Connect Datalab](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/01.%20Connect%20Datalab.ipynb)
+03. Connect Zeppelin
+04. Connect Tableau
 
 ### 03 - Intermediate
 

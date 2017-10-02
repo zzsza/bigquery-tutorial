@@ -13,8 +13,8 @@
 ### 02 - [Utils](https://github.com/zzsza/bigquery-tutorial/tree/master/tutorials/02-Utils)
 01. [Connect Python(Jupyter)](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/01.%20Connect%20Python(Jupyter).ipynb)
 02. [Connect Datalab](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/02.%20Connect%20Datalab.ipynb)
-03. Connect Zeppelin
-04. Connect Tableau
+03. [Connect Zeppelin](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/03.%20Connect%20Zeppelin.ipynb)
+04. [Connect Tableau](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/04.%20Connect%20Tableau.ipynb)
 
 ### 03 - Intermediate
 

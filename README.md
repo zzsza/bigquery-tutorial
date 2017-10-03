@@ -9,6 +9,7 @@
 03. [Run Query](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/01-Basic/03.%20Run%20Query.ipynb)
 04. [Loading Data(from GCS)](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/01-Basic/04.%20Loading%20data(from%20GCS).ipynb)
 05. [Firebase와 연동](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/01-Basic/05.%20Firebase와%20연동.ipynb)
+06. [MySQL to BigQuery(Using Embulk)](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/01-Basic/06.%20MySQL_to_BigQuery(Using_Embulk).ipynb)
 
 ### 02 - [Utils](https://github.com/zzsza/bigquery-tutorial/tree/master/tutorials/02-Utils)
 01. [Connect Python(Jupyter)](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/01.%20Connect%20Python(Jupyter).ipynb)

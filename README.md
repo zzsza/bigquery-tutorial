@@ -18,7 +18,7 @@
 04. [Connect Tableau](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/04.%20Connect%20Tableau.ipynb)
 
 ### 03 - [Intermediate](https://github.com/zzsza/bigquery-tutorial/tree/master/tutorials/03-Intermediate)
-01. [Work Flow Automation(using Airflow)](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/03-Intermediate/01.%20Work_Flow_Automation(using_Airflow).ipynb)
+01. [Work Flow Management(using Airflow)](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/03-Intermediate/01.%20Work_Flow_Management(using_Airflow).ipynb)
 
 
 ### 04 - Data Analysis Practice

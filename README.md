@@ -17,7 +17,9 @@
 03. [Connect Zeppelin](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/03.%20Connect%20Zeppelin.ipynb)
 04. [Connect Tableau](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/04.%20Connect%20Tableau.ipynb)
 
-### 03 - Intermediate
+### 03 - [Intermediate](https://github.com/zzsza/bigquery-tutorial/tree/master/tutorials/03-Intermediate)
+01. [Work Flow Automation(using Airflow)](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/03-Intermediate/01.%20Work_Flow_Automation(using_Airflow).ipynb)
+
 
 ### 04 - Data Analysis Practice
 - bigquery 공개 데이터를 통한 데이터 분석 ( using datalab )
@@ -25,7 +27,7 @@
 ### 05 - [ETC](https://github.com/zzsza/bigquery-tutorial/tree/master/tutorials/05-ETC)
 01. [GOOGLE CLOUD CREDENTIALS json file setting](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/05-ETC/01.%20GOOGLE_CLOUD_CRENDENTIALS_json_file_setting.ipynb)
 
-### reference
+### Reference
 
 
 

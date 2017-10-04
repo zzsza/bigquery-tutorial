@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./tutorials/images/000_bigquery_logo.png" width="200" height="200">
+<img src="./tutorials/images/000_bigquery_logo.png" width="230" height="200">
 </p>
 
 # BigQuery-tutorial 
@@ -27,6 +27,8 @@
 02. [Connect Datalab](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/02.%20Connect%20Datalab.ipynb)
 03. [Connect Zeppelin](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/03.%20Connect%20Zeppelin.ipynb)
 04. [Connect Tableau](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/04.%20Connect%20Tableau.ipynb)
+05. [Install Chrome Extension](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/02-Utils/05.%20Install_Chrome_Extension.ipynb)
+
 
 ### 03 - [Intermediate](https://github.com/zzsza/bigquery-tutorial/tree/master/tutorials/03-Intermediate)
 01. [Work Flow Management(using Airflow)](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/03-Intermediate/01.%20Work_Flow_Management(using_Airflow).ipynb)

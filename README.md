@@ -34,6 +34,7 @@
 01. [Work Flow Management(using Airflow)](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/03-Intermediate/01.%20Work_Flow_Management(using_Airflow).ipynb)
 02. [Optimizing Query and Controlling Costs](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/03-Intermediate/02.%20Optimizing_Query_and_Controlling_Costs.ipynb)
 03. [UDF(User Define Function)](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/03-Intermediate/03.%20UDF(User_Define_Function).ipynb)
+04. DML(Data Manipulation Language)
 
 ### 04 - Data Analysis Practice
 - to be continued

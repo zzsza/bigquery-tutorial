@@ -12,7 +12,7 @@
 - Google Cloud BigQuery를 6개월간 사용하면서 적어둔 내용을 문서화해봤습니다. 한국에서 많은 분들이 BigQuery를 사용하는 그날까지..!
 - 조금이라도 도움이 되셨으면, Star를 눌러주시는 것은 어떨까요?
 - 틀린 내용이 많을 수 있습니다. 어떤 경로든 연락주시면 바로 수정하겠습니다
-- Part 4. Data Analysis 부분은 빠른 시일내로 업데이트하겠습니다
+- 궁금하신 내용은 페이스북 [Google BigQuery Users](https://www.facebook.com/groups/bigquery/)에서 물어보셔도 좋을 것 같습니다 :)
 
 ## Contents
 

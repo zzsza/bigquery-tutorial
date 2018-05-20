@@ -4,7 +4,9 @@
 
 # BigQuery-tutorial 
 - Made by Seongyun Byeon
-- Last modified date : 17.10.04
+- Last modified date : 18.05.20
+- 수정 사항
+	- 18.05.20 : 데이터 분석을 위한 SQL 레시피 소개 추가 
 
 ## Intro
 - Google Cloud BigQuery를 6개월간 사용하면서 적어둔 내용을 문서화해봤습니다. 한국에서 많은 분들이 BigQuery를 사용하는 그날까지..!
@@ -37,7 +39,8 @@
 04. DML(Data Manipulation Language)
 
 ### 04 - Data Analysis Practice
-- to be continued
+- 데이터 분석은 [데이터 분석을 위한 SQL 레시피](http://www.hanbit.co.kr/store/books/look.php?p_code=B8585882565) 책을 추천합니다!
+- 이 책은 SQL 기초 책은 아니지만 SQL을 활용해 데이터 분석을 하는 내용을 담고 있습니다. 실무에서 사용하는 테크닉들이 가득 담겨있으니 꼭 참고하시면 좋을 것 같습니다! 
 
 ### 05 - [ETC](https://github.com/zzsza/bigquery-tutorial/tree/master/tutorials/05-ETC)
 01. [GOOGLE CLOUD CREDENTIALS json file setting](https://github.com/zzsza/bigquery-tutorial/blob/master/tutorials/05-ETC/01.%20GOOGLE_CLOUD_CRENDENTIALS_json_file_setting.ipynb)

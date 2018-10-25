@@ -5,6 +5,9 @@
 # BigQuery-tutorial 
 - Made by Seongyun Byeon
 - Last modified date : 18.05.20
+- 공지 사항
+	- 처음 이 글을 작성하고 많은 시간이 지났습니다. StandardSQL 기반, 새로운 UI, BigQueryML 등 다양한 기능들이 추가되었습니다
+	- 조만간 관련 내용을 조금씩 수정하도록 하겠습니다 :) 
 - 수정 사항
 	- 18.05.20 : 데이터 분석을 위한 SQL 레시피 소개 추가 
 

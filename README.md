@@ -3,6 +3,7 @@
 </p>
 
 # BigQuery-tutorial 
+- [![HitCount](http://hits.dwyl.io/zzsza/bigquery-tutorial.svg)](http://hits.dwyl.io/zzsza/bigquery-tutorial)
 - Made by Seongyun Byeon
 - Last modified date : 18.05.20
 - 공지 사항

@@ -7,10 +7,11 @@
 - Made by Seongyun Byeon
 - Last modified date : 18.05.20
 - 공지 사항
-	- 처음 이 글을 작성하고 많은 시간이 지났습니다. StandardSQL 기반, 새로운 UI, BigQueryML 등 다양한 기능들이 추가되었습니다
-	- 조만간 관련 내용을 조금씩 수정하도록 하겠습니다 :) 
+	- BigQuery 관련 발표를 했습니다. 발표 자료는 [슬라이드쉐어](https://www.slideshare.net/zzsza/bigquery-147073606)에 있습니다 :)
+	- **밑에 내용을 보는 것보다 위 슬라이드쉐어 위주로 보시는 것을 추천합니다!!**
 - 수정 사항
 	- 18.05.20 : 데이터 분석을 위한 SQL 레시피 소개 추가 
+	- 19.05.23 : BigQuery 발표 자료 추가
 
 ## Intro
 - Google Cloud BigQuery를 6개월간 사용하면서 적어둔 내용을 문서화해봤습니다. 한국에서 많은 분들이 BigQuery를 사용하는 그날까지..!
